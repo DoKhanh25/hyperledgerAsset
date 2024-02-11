@@ -17,14 +17,14 @@ class AssetTransfer extends Contract {
         const assets = [
             {
                 ID: 'asset1',
-                Title: 'Research1',
-                HashValue: 'HashValue',
-                DOI: 'DOIinit',
-                AuthorName: 'AuthorName',
-                AuthorIdentity: 'AuthorIdentity',
-                AcceptBy: 'org1',
-                UpdateTime: 'time',
-                UpdateBy: 'Account'
+                Title: 'Design Digital Right Management System Based on Blockchain Hyperledger Fabric',
+                HashValue: '2ef7bde608ce5404e97d5f042f95f89f1c232871',
+                DOI: 'DOI',
+                AuthorName: 'Do Trong Khanh,Ta Dinh Hieu,Do Viet Dung,Nguyen Duc Anh',
+                AuthorIdentity: '11201933,11191972,11218393,11200201',
+                AcceptBy: 'National Economics University',
+                UpdateTime: '2024-04-25',
+                UpdateBy: 'Admin1'
             }
         ];
 
